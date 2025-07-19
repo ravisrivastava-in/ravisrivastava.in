@@ -1,0 +1,20 @@
+@media screen and (max-width: 600px) {
+    /* Styles for screens with a maximum width of 600px */
+    body {
+        font-size: 14px;
+    }
+
+    /* Adjust the styling of the navbar */
+    .navbar a {
+        padding: 6px;
+        font-size: 14px;
+    }
+}
+
+/* Add more media queries as needed for different screen sizes */
+    /* CSS for making images responsive */
+    .marquee-image {
+        max-width: 100%;
+        height: auto;
+    }
+
